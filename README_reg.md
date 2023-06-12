@@ -31,7 +31,7 @@ This repository contains a Python script that utilizes Selenium WebDriver to tes
 5. Run the script using the following command:
 
    ```bash
-   python selenium_test.py
+   python regresja.py
    ```
 
 6. The script will execute the test, adding tasks to the to-do list and verifying their successful addition. The test results will be displayed in the console.
