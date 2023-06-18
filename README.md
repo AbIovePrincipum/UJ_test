@@ -24,14 +24,14 @@ This repository contains a Python script that utilizes Selenium WebDriver to tes
 
 ## Usage
 
-1. Open the script file `selenium_test.py` in a text editor.
+1. Open the script file `regresja.py` in a text editor.
 2. Modify the `zenek.get()` method's argument to specify the URL of the to-do list web application you want to test.
 3. Save the file.
 4. Open a terminal or command prompt and navigate to the directory containing the script.
 5. Run the script using the following command:
 
    ```bash
-   python selenium_test.py
+   python regresja.py
    ```
 
 6. The script will execute the test, adding tasks to the to-do list and verifying their successful addition. The test results will be displayed in the console.
